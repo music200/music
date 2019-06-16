@@ -1,5 +1,35 @@
 <rss>
     <channel>
+     <item>
+            <imag img="https://i.ytimg.com/vi/VQFvZrxnwrM/maxresdefault.jpg"/>
+            <title>حبيته</title>
+            <enclosure url="https://ia601407.us.archive.org/3/items/ujo0000delati_gmail_2/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/VQFvZrxnwrM/maxresdefault.jpg"/>
+            <title>ثكيل</title>
+            <enclosure url="https://ia601407.us.archive.org/3/items/ujo0000delati_gmail_2/2.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/VQFvZrxnwrM/maxresdefault.jpg"/>
+            <title> المدلل</title>
+            <enclosure url="https://ia601407.us.archive.org/3/items/ujo0000delati_gmail_2/3.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/VQFvZrxnwrM/maxresdefault.jpg"/>
+            <title>احبك</title>
+            <enclosure url="https://ia601407.us.archive.org/3/items/ujo0000delati_gmail_2/4.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/VQFvZrxnwrM/maxresdefault.jpg"/>
+            <title>عشك بدوي</title>
+            <enclosure url="https://ia601407.us.archive.org/3/items/ujo0000delati_gmail_2/5.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/VQFvZrxnwrM/maxresdefault.jpg"/>
+            <title>عايفها يمك</title>
+            <enclosure url="https://ia601407.us.archive.org/3/items/ujo0000delati_gmail_2/6.mp3"/>
+        </item>
         <item>
             <imag img="https://i.ytimg.com/vi/SeokT435ZyU/hqdefault.jpg"/>
             <title>عشك بدوي</title>
