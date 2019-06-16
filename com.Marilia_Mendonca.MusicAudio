@@ -1,5 +1,55 @@
 <rss>
     <channel>
+     <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>SERENATA Todos Os Cantos</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>TODO MUNDO VAI SOFRER</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/2.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>LOVE À QUEIMA ROUPA</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/3.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>OBRIGADO POR ESTRAGAR TUDO</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/4.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>BEBAÇA feat</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/5.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>AMIGO EMPRESTADO</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/6.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>BEBI LIGUEI</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/7.mp3"/>
+        </item>
+		<item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title> PASSA MAL</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/8.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>SEM SAL</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/9.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://pbs.twimg.com/profile_images/1244195690/twter2_400x400.jpg"/>
+            <title>BYE BYE</title>
+            <enclosure url="https://ia601505.us.archive.org/2/items/2020_gmail_42020/10.mp3"/>
+        </item>
         <item>
             <imag img= "https://www.altoastral.com.br/wp-content/uploads/2017/05/marilia-mendonca-divulgacao.jpg"/>
             <title>01 de quem e a culpa</title>
