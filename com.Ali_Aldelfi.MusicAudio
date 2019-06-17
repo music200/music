@@ -1,6 +1,30 @@
 <rss>
     <channel>
-        
+         <item>
+            <imag img="https://i.ytimg.com/vi/N8T4XJr5K8E/hqdefault.jpg"/>
+            <title>ماكو بحلاتك</title>
+            <enclosure url="https://ia601500.us.archive.org/2/items/uuuy68_gmail_4/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/N8T4XJr5K8E/hqdefault.jpg"/>
+            <title>رباه</title>
+            <enclosure url="https://ia601500.us.archive.org/2/items/uuuy68_gmail_4/2.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/N8T4XJr5K8E/hqdefault.jpg"/>
+            <title>انه ادعي</title>
+            <enclosure url="https://ia601500.us.archive.org/2/items/uuuy68_gmail_4/3.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/N8T4XJr5K8E/hqdefault.jpg"/>
+            <title>عايش الغيري</title>
+            <enclosure url="https://ia601500.us.archive.org/2/items/uuuy68_gmail_4/4.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/N8T4XJr5K8E/hqdefault.jpg"/>
+            <title>منك وبيك</title>
+            <enclosure url="https://ia601500.us.archive.org/2/items/uuuy68_gmail_4/5.mp3"/>
+        </item>
         <item>
             <imag img="http://s1.dmcdn.net/fDAIz/1280x720-J1_.jpg"/>
 
