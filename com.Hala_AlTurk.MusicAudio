@@ -1,7 +1,21 @@
 
 <rss>
     <channel>
-
+ <item>
+            <imag img="https://i.ytimg.com/vi/67YKjQAZqzM/maxresdefault.jpg"/>
+            <title>خالي بلاش</title>
+            <enclosure url="https://ia601509.us.archive.org/17/items/frgt555_gmail_3/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/67YKjQAZqzM/maxresdefault.jpg"/>
+            <title> اوكي حبيبي</title>
+            <enclosure url="https://ia601509.us.archive.org/17/items/frgt555_gmail_3/2.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/67YKjQAZqzM/maxresdefault.jpg"/>
+            <title> كليب ممنوع اللمس</title>
+            <enclosure url="https://ia601509.us.archive.org/17/items/frgt555_gmail_3/3.mp3"/>
+        </item>
         <item>
 
             <imag img="http://www.gololy.com/gallery/2017/image_05/20170226_121654_8811.jpg"/>
