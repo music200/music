@@ -1,5 +1,15 @@
 <rss>
     <channel>
+    <item>
+            <imag img="ffffhttps://images.alwatanvoice.com/news/large/9998684739.jpgff"/>
+            <title>عشقان</title>
+            <enclosure url="https://ia801501.us.archive.org/26/items/aimn_gmail_2/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://images.alwatanvoice.com/news/large/9998684739.jpg"/>
+            <title>انتي و بس</title>
+            <enclosure url="https://ia801501.us.archive.org/26/items/aimn_gmail_2/1.mp3"/>
+        </item>
         <item>
            <title>قصة كبيرة</title>
       <enclosure url="https://archive.org/download/xxxxx_201902/1.mp3"/>
