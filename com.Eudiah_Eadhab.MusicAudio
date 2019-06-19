@@ -1,5 +1,20 @@
 <rss>
     <channel>
+    	 <item>
+            <imag img="https://i.ytimg.com/vi/AQfE1GY4x-Q/hqdefault.jpg"/>
+            <title>في وداعة الله </title>
+            <enclosure url="https://ia801404.us.archive.org/7/items/fffff_gmail_3/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/AQfE1GY4x-Q/hqdefault.jpg"/>
+            <title>النوم مابلي</title>
+            <enclosure url="https://ia801404.us.archive.org/7/items/fffff_gmail_3/2.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://i.ytimg.com/vi/AQfE1GY4x-Q/hqdefault.jpg"/>
+            <title>بخاو بلا مصالح</title>
+            <enclosure url="https://ia801404.us.archive.org/7/items/fffff_gmail_3/3.mp3"/>
+        </item>
         <item>
           <imag img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbWEhCxHMWKECK0FFO70NHH99fMRJ2dF65abDbekpMqvkBxLqIQ"/>
             <title>دهابة</title>
