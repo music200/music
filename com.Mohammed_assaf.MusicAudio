@@ -1,5 +1,15 @@
 <rss>
     <channel>
+     <item>
+            <imag img="https://www.watanserb.com/wp-content/uploads/13775380_1390783387601918_6949487727624401642_n.jpg"/>
+            <title> بصراحة</title>
+            <enclosure url="https://ia601500.us.archive.org/17/items/2_20190707/1.mp3"/>
+        </item>
+		 <item>
+            <imag img="https://www.watanserb.com/wp-content/uploads/13775380_1390783387601918_6949487727624401642_n.jpg"/>
+            <title>مكانك خالي</title>
+            <enclosure url="https://ia601500.us.archive.org/17/items/2_20190707/2.mp3"/>
+        </item>
         <item>
             <imag img="https://pbs.twimg.com/media/DaBkKq2X0AYDql2.jpg"/>
 
