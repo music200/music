@@ -1,6 +1,10 @@
        <rss>
     <channel>
-        
+         <item>
+            <imag img="https://www.belta.by/images/storage/news/000029_1554453004_342838_big.jpg"/>
+            <title> Целовать</title>
+            <enclosure url="https://ia601406.us.archive.org/5/items/2_20190730_20190730_1822/1.mp3"/>
+        </item>
 		 <item>
             <imag img="https://www.belta.by/images/storage/news/000029_1554453004_342838_big.jpg"/>
             <title>Я больше не напишу</title>
