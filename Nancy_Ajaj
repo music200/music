@@ -1,23 +1,22 @@
 {
   "police": "https://sites.google.com/view/privacy-policy202/privacy-policy",
   "keyword": "Cord Blood,Claim,Credit",
-  "key_ADid": "xxxxxx",
-  "key_ADunit": "xxxxxx",
-  "keyB_AD": "xxxxxx,xxxxxx",
-  "keyI_AD": "xxxxxx,xxxxxx,xxxxxx",
-  "keyB_FA": "xxxxxx,xxxxxx",
-  "keyI_FA": "xxxxxx,xxxxxx,xxxxxx",
-    "key_N_FA": "xxxxxx",
-
-  "key_MOid": "xxxxxx",
-  "keyB_MO": "xxxxxx,xxxxxx",
-  "keyI_MO": "xxxxxx,xxxxxx,xxxxxx",
-  "keyN_MO": "xxxxxx",
-"key_UNid": "xxxxxx",
+"key_ADid": "6220577979",
+  "key_ADunit": "7489147713921350",
+  "keyB_AD": "2591951007,8965787664",
+  "keyI_AD": "7652705997,5026542656,2939628885,1087297644,8774215970,1626547219",
+  "keyB_FA": "277389510034482_277390590034374,277389510034482_277390583367708",
+  "keyI_FA": "277389510034482_277390093367757,277389510034482_277390353367731",
+  "key_N_FA": "345885070079535",
+  "key_MOid": "xxxxx",
+  "keyB_MO": "xxxxx,xxxxx",
+  "keyI_MO": "xxxxx,xxxxx,xxxxx",
+  "keyN_MO": "xxxxx",
+  "key_UNid": "3660445",
   "keyB_UN": "banner",
   "keyI_UN": "video",
  
-  "compactAds": "UN,FA,AD,MO",
+  "compactAds": "UN,FA,AD",
   "timerNext": "0:01:00",
-  "viersonsda": "1"
+  "viersonsda": "10"
 }
