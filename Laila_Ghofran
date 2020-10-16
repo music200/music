@@ -1,23 +1,22 @@
 {
   "police": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
   "keyword": "Degree,Claim,Cord Blood",
-  "key_ADid": "xxxxx",
-  "key_ADunit": "xxxxx",
-  "keyB_AD": "xxxxx,xxxxx",
-  "keyI_AD": "xxxxx,xxxxx,xxxxx",
+  "key_ADid": "9664218717",
+  "key_ADunit": "7489147713921350",
+  "keyB_AD": "8043302829,4061138862",
+  "keyI_AD": "8491338463,9557008128,4650852729,8108195082,6795113419,9711607712",
   "keyB_FA": "xxxxx,xxxxx",
-  "keyI_FA": "xxxxx,xxxxx,xxxxx",
-    "key_N_FA": "xxxxx",
-
+  "keyI_FA": "xxxxx,xxxxx",
+  "key_N_FA": "xxxxx",
   "key_MOid": "xxxxx",
   "keyB_MO": "xxxxx,xxxxx",
   "keyI_MO": "xxxxx,xxxxx,xxxxx",
   "keyN_MO": "xxxxx",
-"key_UNid": "xxxxx",
-  "keyB_UN": "xxxxx",
-  "keyI_UN": "xxxxx",
+  "key_UNid": "3660449",
+  "keyB_UN": "banner",
+  "keyI_UN": "video",
  
-  "compactAds": "MO,FA,UN,AD",
-  "timerNext": "0:00:10",
-  "viersonsda": "1"
+  "compactAds": "UN,AD",
+  "timerNext": "0:01:00",
+  "viersonsda": "11"
 }
